@@ -1,6 +1,7 @@
 # Summary
 
 This is a take home project for an interview for a Software Engineer position.
+
 Link to the app: https://store-locator-two.vercel.app
 
 # Requirements
