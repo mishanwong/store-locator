@@ -1,0 +1,20 @@
+@media only screen and (max-width: 640px) {
+  .map {
+    height: 350px;
+    width: 350px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 768px) {
+  .map {
+    height: 400px;
+    width: 450px;
+  }
+}
+
+@media (min-width: 769px) {
+  .map {
+    margin-right: 20px;
+    margin-bottom: 30px;
+  }
+}

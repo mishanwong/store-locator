@@ -1,0 +1,55 @@
+.center {
+  height: 100%;
+  display: grid;
+}
+
+.center-child {
+  margin: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .main-content {
+    display: flex;
+    flex-direction: column-reverse;
+    min-height: 89vh;
+  }
+
+  .pharmacy-list {
+    flex-grow: 1;
+  }
+
+  .footer {
+    min-height: 40px;
+  }
+
+  .map {
+    margin-top: 10px;
+    min-height: 30vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .main-content {
+    min-width: 100vw;
+    min-height: calc(88vh - 40px);
+  }
+
+  .pharmacy-list {
+    min-width: 50vw;
+    flex-grow: 1;
+  }
+  .footer {
+    height: 30px;
+  }
+  .map {
+    min-width: 50vw;
+  }
+  .map-container {
+    align-self: center;
+  }
+}
+
+.main-content {
+  width: 100%;
+  max-width: 1200px;
+}
