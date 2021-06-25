@@ -22,7 +22,7 @@ Build a store locator with the following features:
    - [Mapbox](https://www.mapbox.com)
 4. In your code editor, create a new `.env` file
 5. In the `.env` file, add the following credentials
-   - `REACT_APP_RAPID_API_KEY={<YOUR_RAPID_RAPI_KEY>}`
+   - `REACT_APP_RAPID_API_KEY={<YOUR_RAPID_API_KEY>}`
    - `REACT_APP_MAPBOX_TOKEN={<YOUR_MAPBOX_TOKEN>)`
 6. Run `yarn` to install dependencies packages
 7. Run `yarn start`
