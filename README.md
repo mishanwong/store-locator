@@ -53,11 +53,15 @@ Build a store locator with the following features:
 
 - I randomly picked 10 pharmacies from a list from the [Department of Homeland Security](https://catalog.data.gov/dataset/pharmacies).
 
-### Screenshots
+# Screenshots
 
 #### Web view
+![Screen Shot 2021-06-25 at 1 48 53 PM](https://user-images.githubusercontent.com/32437766/123483767-1f433c00-d5bc-11eb-9e48-2354b9566154.png)
+
 
 #### Mobile view
+![Screen Shot 2021-06-25 at 1 48 09 PM](https://user-images.githubusercontent.com/32437766/123483751-1b171e80-d5bc-11eb-8051-51ad06190bcd.png)
+
 
 # Future enhancements
 
